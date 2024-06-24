@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Story</title>
+    <link>/</link>
+    <description>Recent content on Hugo Story</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Tue, 11 Jun 2024 21:32:53 +0800</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 06 11 New 1</title>
+      <link>/posts/2024-06-11-new-1/</link>
+      <pubDate>Tue, 11 Jun 2024 21:32:53 +0800</pubDate>
+      <guid>/posts/2024-06-11-new-1/</guid>
+      <description>This is a new content Hello, I&amp;rsquo;m TONGYI Lingma, an AI Coding Assistant with you. It&amp;rsquo;s pleasure to help you getting things done faster and better. You can ask me anything about coding. Read TONGYI Lingma Docs for detailed information about me, and share feedback so that I can improve. By the way, I’ll feel honored if you share me to more friends. Let&amp;rsquo;s start by typing &amp;lsquo;/&amp;rsquo; for commands: explain code generate unit test generate comment generate optimization Type something to ask me, or @lingma to get more surprises.</description>
+    </item>
+  </channel>
+</rss>
